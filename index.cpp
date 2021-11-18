@@ -42,7 +42,7 @@ int main() {
     cout << "Population: " << ppl << endl;
     cout << "Population Infected on Day 1: " << c0 << endl;
     cout << "r0 Number: " << r0 << endl;
-    cout << "Day in Cycle for Spreading Virus :" << contagiousDays << endl;
+    cout << "Day in Cycle for Spreading Virus: " << contagiousDays << endl;
     cout << "Day in Cycle for Recovery: " << recoveryDay << endl;
 
     cout << endl;
